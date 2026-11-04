@@ -1,4 +1,4 @@
-import { Complaint, ComplaintHistoryEvent, ComplaintStatus, TimelineStep } from '../types';
+import { Complaint, ComplaintHistoryEvent, ComplaintStatus, TimelineStep, CategoryKey } from '../types';
 import { COMPLAINT_CATEGORIES, INITIAL_DEMO_COMPLAINTS } from '../data/legalData';
 
 const STORAGE_KEY = 'nyaya_sahaya_complaints_v1';
