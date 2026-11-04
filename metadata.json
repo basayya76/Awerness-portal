@@ -1,0 +1,8 @@
+{
+  "name": "Remix Nyaya Sahaya",
+  "description": "Empowering citizens with accessible legal education, complaint tracking, and essential support services for protecting their rights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
